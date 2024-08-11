@@ -839,9 +839,7 @@ body .footer-desc {
   .logo-header {
     padding: 24px 0;
   }
-  .mobile-top-menu {
-    display: none;
-  }
+  
   .team-item:last-child {
     margin-bottom: auto;
   }
