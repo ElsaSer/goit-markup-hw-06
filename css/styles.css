@@ -167,8 +167,7 @@ button {
 .link:hover,
 .link:focus,
 .contacts-us .link:hover,
-.contacts-us .link:focus,
-.active {
+.contacts-us .link:focus {
   color: #404bbf;
 }
 
@@ -765,7 +764,7 @@ body .footer-desc {
     max-width: 768px;
     padding: 112px 0;
   }
-  
+
   .orders-header {
     max-width: 496px;
     margin: 0 auto 36px;
@@ -830,7 +829,7 @@ body .footer-desc {
   .logo-header {
     padding: 24px 0;
   }
-  
+
   .team-item:last-child {
     margin-bottom: auto;
   }
@@ -863,7 +862,7 @@ body .footer-desc {
     padding: 188px 0;
     max-width: 1440px;
   }
- 
+
   .orders-header {
     margin: 0 auto 48px;
     font-size: 56px;
@@ -918,7 +917,7 @@ body .footer-desc {
     align-items: baseline;
     flex-wrap: nowrap;
     justify-content: left;
-    padding-left: 15px;  /*not sure if I need it*/
+    padding-left: 15px; /*not sure if I need it*/
   }
   .subscribe-form {
     gap: 24px;
